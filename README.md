@@ -29,4 +29,4 @@ Content
 
 # Inspiration
 
-- Build a machine learning Model Which Predict did it rain the next day or not
+- Build a machine learning Model Which Predict did it rain the next day or not.
